@@ -43,11 +43,6 @@ npm run build
 👨‍💻 Creator
 This website was created by Srivatsa MG.
 
-🌐 Live Preview
-Check out the live preview of the project here.
 
-### Explanation:
-- **Creator**: The text **"This website was created by"** is followed by the clickable name **"Srivatsa MG"** which links to your website using `[Srivatsa MG](https://srivatsamg.netlify.app/)`.
-- **Live Preview**: The text **"Check out the live preview of the project here"** is linked to the live preview URL using `[here](https://kzmpxs7k3tv832nepc1h.lite.vusercontent.net/)`.
 
-This should now render properly when you view the `README.md` file in GitHub or any markdown viewer, with both **Srivatsa MG** and **here** being clickable links.
+
